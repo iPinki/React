@@ -1,0 +1,14 @@
+.tic-tac-toe{
+    width: 148px;
+    height: 150px;
+    border: 2px solid black;
+    margin: 50px auto;
+}
+
+.ttt-grid{
+    width: 48px;
+    height: 49px;
+    border: 1px solid black;
+    float: left;
+    box-sizing: border-box;
+}
